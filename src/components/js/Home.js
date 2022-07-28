@@ -28,24 +28,27 @@ function Home(props) {
             setDatalen(true)
         }
     }
-    
-    const NotAvailable = () =>(<p className="not-avail">No Products Available</p>)
-    
+
+    const NotAvailable = () => (<p className="not-avail">No Products Available</p>)
+
 
     return (
         <Container id="container" data-aos="fade-up">
             <Row className="menu">
                 <HandleChange />
-                {Datalen?
+                {Datalen ?
                     filteredData.map((item) => (
                         <Cards name={item.name} price={item.price} imag={item.image} details={item.details} available={item.available} />
-                    )):<NotAvailable />}
+                    )) : <NotAvailable />}
             </Row>
         </Container>
     )
 }
 
 function Cards(props) {
+    const x = parseInt(process.env.REACT_APP_NUMBER)
+    console.log(x)
+
     return (
         <Col className="menu-col">
             <Card style={{ width: '18rem' }}>
@@ -62,7 +65,9 @@ function Cards(props) {
                     {props.price}
                 </p>
                 <Card.Footer className="btn-main">
-                    <Button variant="outline-dark">Order Now</Button>
+                    <a href={"https://wa.me/91"+x+"?text=Is%20This%20Available%20Now??%0A%0AProduct:%20"+props.name} target="_blank" rel="noreferrer">
+                        <Button variant="outline-dark">Inquire Now</Button>
+                    </a>
                 </Card.Footer>
             </Card >
         </Col>
