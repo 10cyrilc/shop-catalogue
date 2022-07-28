@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "ITEM-1",
+        "price": "643₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 2,
+        "name": "ITEM-2",
+        "price": "314₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 3,
+        "name": "ITEM-3",
+        "price": "792₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 4,
+        "name": "ITEM-4",
+        "price": "687₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 5,
+        "name": "ITEM-5",
+        "price": "662₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https: //i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 6,
+        "name": "ITEM-6",
+        "price": "323₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 7,
+        "name": "ITEM-7",
+        "price": "229₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 8,
+        "name": "ITEM-8",
+        "price": "836₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 9,
+        "name": "ITEM-9",
+        "price": "425₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 10,
+        "name": "ITEM-10",
+        "price": "769₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 11,
+        "name": "ITEM-11",
+        "price": "819₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 12,
+        "name": "ITEM-12",
+        "price": "117₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 13,
+        "name": "ITEM-13",
+        "price": "933₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 14,
+        "name": "ITEM-14",
+        "price": "535₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    },
+    {
+        "id": 15,
+        "name": "ITEM-15",
+        "price": "339₹",
+        "details": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
+        "image": "https://i.ibb.co/SdLNgNV/item-1080x1080.jpg",
+        "available": "true"
+    }
+]
