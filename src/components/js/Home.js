@@ -46,8 +46,8 @@ function Home(props) {
 }
 
 function Cards(props) {
-    const x = parseInt(process.env.REACT_APP_NUMBER)
-    console.log(x)
+    const x = 999999999
+    // console.log(x)
 
     return (
         <Col className="menu-col">
